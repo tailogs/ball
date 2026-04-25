@@ -3,6 +3,9 @@
 A fun little Windows utility that creates a bouncing ball on your screen.  
 The ball moves with realistic physics, bounces off the edges of the screen, plays a collision sound (optional), and lives in the system tray – perfect for a quick break or as a desktop screensaver alternative.
 
+![screenshot](screenshots/1.jpg)
+*Picture 1: Game screenshot*
+
 ## Features
 
 - Smooth, frame‑independent movement using high‑precision timers.
